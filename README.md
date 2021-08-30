@@ -1,0 +1,2 @@
+# OpenChat
+sfml based chat
