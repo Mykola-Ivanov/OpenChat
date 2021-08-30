@@ -145,12 +145,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main_form.cpp" />
+    <ClCompile Include="Utilities.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Font Include="..\x64\Debug\Lobster-Regular.ttf" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="SFChat.rc" />

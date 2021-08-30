@@ -18,12 +18,12 @@
     <ClCompile Include="main_form.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Utilities.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Font Include="..\x64\Debug\Lobster-Regular.ttf" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="SFChat.rc">
